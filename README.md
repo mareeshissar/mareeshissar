@@ -1,5 +1,9 @@
 ### Hi there 👋
 Welcome to my GitHub profile!!
+
+ 😍 I’m passionate about:
+ 
+ Software engineering, Wireless systems and Artificial Intelligence
 <!--
 **mareeshissar/mareeshissar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
